@@ -20,16 +20,6 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
-## Team Members 
-<ul>
-  <li><a href="https://github.com/jaskaranpr">Jaskaran Singh</a></li>
-  <li><a href="https://github.com/gokuliscoding">Gokul Nair</a></li>
-  <li><a href="https://github.com/praveenkupadhi">Praveen Kumar</a></li>
-  <li><a href="https://github.com/Tushar-chauhan198">Tushar Chauhan</a></li>
-  <li><a href="https://github.com/Keshav-babu">Keshav Mandal</a></li>
-  
-</ul>
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
