@@ -1,0 +1,41 @@
+.ticket{
+    width: 250px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction:column;
+    background:#414152;
+    margin-top: 20px;
+    position: relative;
+    color:white;
+}
+.ticket::before{
+    content:"";
+    width: 20px;
+    height:20px;
+    background:white;
+    position: absolute;
+    left: -10px;
+    border-radius:50%;
+}
+.ticket::after{
+    content:"";
+    width: 20px;
+    height:20px;
+    background:white;
+    position: absolute;
+    right: -10px;
+    border-radius:50%;
+}
+.ticket>h1{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.ticket>button{
+    font-weight: bold;
+    padding:5px 10px;
+    background-color: #ff3278;
+    border-radius: 10px;
+}

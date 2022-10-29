@@ -1,0 +1,78 @@
+#imagesGear,
+#shopByWorkoutImages {
+  display: flex;
+  margin:50px auto;
+  justify-content: center;
+}
+
+#shopByWorkoutImages {
+  margin-left: -45px;
+}
+
+.shopByWorkoutImage {
+  padding: 7.5px;
+}
+
+.imageGear {
+  height: 192px;
+  width: 201px;
+}
+
+#shopByWorkout {
+  font-size: 22px;
+  margin-top: 40px;
+  font-weight: 600;
+}
+
+.shopByWorkoutImage {
+  width: 292px;
+  height: 385px;
+}
+
+#shopByCategory {
+  font-size: 22px;
+  margin: auto;
+  width: 1200px;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.categoryImage {
+  height: 241px;
+  width: 231;
+}
+
+#shopByCategoryImages {
+  display: grid;
+  grid-template-columns: repeat(5, 250px);
+  margin: auto;
+  width: 1200px;
+}
+
+.shopByCategoryImage {
+  margin-left: 30px;
+  height: 221px;
+  width: 231px;
+}
+
+#spotlight {
+  font-size: 22px;
+  margin:50px auto;
+  width: 1200px;
+  font-weight: 600;
+}
+
+#spotlightImages {
+  margin:auto;
+  width: 1200px;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.spotlightImage {
+  width: 602px;
+  height: 335px;
+}
+img{
+  cursor: pointer;
+}
